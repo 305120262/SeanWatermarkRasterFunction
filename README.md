@@ -1,7 +1,7 @@
 # 影像水印栅格函数
   该栅格函数基于ESRI提供的示例代码修改而来，支持32位透明背景的PNG图片格式作为水印图片。可以指定水印的水平和垂直间隔距离和混合的透明度。
 ##下面为注册到ArcGIS for Desktop中的具体步骤描述。
-  1.打开XMLSupport.dat
+  1.打开XMLSupport.dat </br>
   2.添加如下内容：
 ```xml
 	<Type>
